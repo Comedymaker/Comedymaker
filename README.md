@@ -16,7 +16,9 @@ I am Yicheng Liu, a computer science student from huazhong university of science
     <img src="https://github-readme-stats.vercel.app/api?username=Comedymaker&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=00000000" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comedymaker&size_weight=0.5&count_weight=0.5&langs_count=8)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comedymaker&size_weight=0.5&count_weight=0.5&langs_count=8" alt="Top Langs">
+</div>
 
 
 ---
@@ -30,4 +32,6 @@ I am Yicheng Liu, a computer science student from huazhong university of science
     <img src="https://badges.pufler.dev/repos/Comedymaker?labelColor=91b0fc&color=47bdae" />
     <img src="https://badges.pufler.dev/updated/Comedymaker/Comedymaker?labelColor=91b0fc&color=47bdae" />
 </p>
+
+
 
